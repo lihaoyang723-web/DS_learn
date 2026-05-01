@@ -1,0 +1,29 @@
+# build目录
+build/
+*/build/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# 编译产物
+*.o
+*.out
+*.exe
+*.a
+*.so
+
+# 可执行文件
+main
+a.out
+
+# macOS
+.DS_Store
+
+# VSCode
+.vscode/
+
+# 大文件
+*.pdf
